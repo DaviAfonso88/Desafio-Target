@@ -1,0 +1,7 @@
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\bin\Debug\Estagio_Ribeirao_Preto_2024.exe.config
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\bin\Debug\Estagio_Ribeirao_Preto_2024.exe
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\bin\Debug\Estagio_Ribeirao_Preto_2024.pdb
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\obj\Debug\Estagio_Ribeirao_Preto_2024.csproj.AssemblyReference.cache
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\obj\Debug\Estagio_Ribeirao_Preto_2024.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\obj\Debug\Estagio_Ribeirao_Preto_2024.exe
+C:\temp\projetos\Estagio_Ribeirao_Preto_2024\Estagio_Ribeirao_Preto_2024\obj\Debug\Estagio_Ribeirao_Preto_2024.pdb
