@@ -1,4 +1,4 @@
-# Desafio Target Sistemas
+# Desafio Target
 
 1) Observe o trecho de código abaixo:
 
